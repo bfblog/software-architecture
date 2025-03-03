@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Lösungsskizze", "EARoot/EA1.htm", "178.png", "43", "0", "", "Component diagram0","{476B024E-974B-4eda-ADFF-23C9B8379903}");
+tocTab[tocTab.length] = new Array("0:2", "", "Lösungsskizze", "EARoot/EA3.htm", "178.png", "11", "0", "", "Component diagram0","{B34925BC-01F5-4bc7-9985-56E4FE70669C}");
+tocTab[tocTab.length] = new Array("0:3", "", "«ModelView» List of Elements in Package Aufgabenstellung", "EARoot/EA8.htm", "5.png", "E532", "0", "", "Class0","{CD20E0D6-70BE-4a5f-B51D-043121A20DD2}");
+tocTab[tocTab.length] = new Array("0.1", "1", "Einführung", "EARoot/EA1/EA21.htm", "4.png", "", "", "{2F1F63A4-97D2-4609-9ADD-8B70E7D1ED9E}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Randbedingungen", "EARoot/EA2/EA42.htm", "4.png", "", "", "{3B7B02CE-3A47-4be8-8E23-438A60479806}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Kontextabgrenzung", "EARoot/EA3/EA49.htm", "4.png", "", "", "{CDF66A04-607E-46d4-999B-7F30213B0673}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Lösungsstrategie", "EARoot/EA4/EA56.htm", "4.png", "", "", "{2FA115D2-0B2A-49ae-8177-B86EF8EB2BE6}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Bausteinsicht", "EARoot/EA5/EA66.htm", "4.png", "", "", "{2AB786CD-31B5-4c84-A17E-3F876977A61E}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "", "Laufzeitsicht", "EARoot/EA6/EA75.htm", "4.png", "", "", "{E30E1C6F-AADF-41c1-8BAD-B0B7DAB9D2F2}", "Package");
+tocTab[tocTab.length] = new Array("0.7", "", "Verteilungssicht", "EARoot/EA7/EA76.htm", "4.png", "", "", "{31EDB3FB-0A21-482e-AB92-65D86F9E0CB0}", "Package");
+tocTab[tocTab.length] = new Array("0.8", "", "Querschnittliche Konzepte", "EARoot/EA8/EA77.htm", "4.png", "", "", "{5EF3E571-839C-4504-A1DE-A3AEFFD3EB73}", "Package");
+tocTab[tocTab.length] = new Array("0.9", "", "Entwurfsentscheidungen", "EARoot/EA9/EA78.htm", "4.png", "", "", "{248CBBE4-EE3B-4b70-9B57-B4829B8D7519}", "Package");
+tocTab[tocTab.length] = new Array("0.10", "1", "Qualitätsanforderungen", "EARoot/EA10/EA79.htm", "4.png", "", "", "{5EE3881F-96B6-4b95-B970-0F30DEF215A7}", "Package");
+tocTab[tocTab.length] = new Array("0.11", "", "Risiken und technische Schulden", "EARoot/EA11/EA86.htm", "4.png", "", "", "{54C760F5-E641-443a-BBEB-DED5F08B8DA4}", "Package");
+tocTab[tocTab.length] = new Array("0.12", "", "Glossar", "EARoot/EA12/EA87.htm", "4.png", "", "", "{1FFDBE6B-478B-4854-972C-3985E6AA8D93}", "Package");
